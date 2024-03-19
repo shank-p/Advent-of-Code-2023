@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except .rs & .txt files
+!.gitignore
+!*.rs
+!*.txt
